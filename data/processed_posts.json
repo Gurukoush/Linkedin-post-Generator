@@ -1,0 +1,130 @@
+[
+    {
+        "text": "hey, I am going there, do you want to join?",
+        "engagement": 44,
+        "line_count": 1,
+        "language": "English",
+        "tags": []
+    },
+    {
+        "text": "Stop paying for LLM APIs, use these free tools to build your AI projects,\n\n1. Groq cloud (https://console.groq.com/) They provide access to many opensource models for free: GPT OSS, Llama 4 Scout, Qwen and many other models with multimodal capabilities\n\n2. OpenRouter (https://openrouter.ai/) This one is a unified interface for models with access to many free models. Many labs (e.g. xAI) pushes their model here under stealth when they are in BETA phase. These models are a good choice for your learning projects\n\n3. Google Gemini with Reliance Jio SIM: Reliance JIO has this offer where you get 1.5 yrs of free access to Gemini Pro and 10 $ a month free credits to access Gemini 3 pro models. Check this video for steps to enable this access: https://lnkd.in/dTn5GBav\n\n4. Call local models through Ollama (https://ollama.com/)\n\nDid I miss anything?",
+        "engagement": 664,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "APIs",
+            "AI"
+        ]
+    },
+    {
+        "text": "Just completed my first full stack project using Django and React. Feeling excited to build more.",
+        "engagement": 55,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Programming"
+        ]
+    },
+    {
+        "text": "Consistency in DSA practice is more important than solving too many problems in one day.",
+        "engagement": 33,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Practice",
+            "Programming"
+        ]
+    },
+    {
+        "text": "Exploring open source LLMs has changed the way I think about AI development.",
+        "engagement": 322,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "AI"
+        ]
+    },
+    {
+        "text": "Today I learned how APIs work internally and how frontend connects with backend.",
+        "engagement": 9509,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "APIs",
+            "Programming"
+        ]
+    },
+    {
+        "text": "Building projects while learning is the fastest way to grow as a developer.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Learning",
+            "Programming"
+        ]
+    },
+    {
+        "text": "Started preparing for coding interviews seriously, focusing on arrays and strings first.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Interviews",
+            "Programming"
+        ]
+    },
+    {
+        "text": "Debugging code is frustrating but also the best way to understand programming deeply.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Debugging",
+            "Programming"
+        ]
+    },
+    {
+        "text": "Trying out Ollama to run local LLMs and avoid API costs.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "AI"
+        ]
+    },
+    {
+        "text": "Improving communication skills is just as important as improving coding skills.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Programming",
+            "Communication"
+        ]
+    },
+    {
+        "text": "Working on a GenAI project that generates LinkedIn posts automatically.",
+        "engagement": 88,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "AI",
+            "Social Media"
+        ]
+    },
+    {
+        "text": "My dear colleagues and you.",
+        "engagement": 0,
+        "line_count": 1,
+        "language": "English",
+        "tags": []
+    },
+    {
+        "text": ".",
+        "engagement": 0,
+        "line_count": 0,
+        "language": "English",
+        "tags": []
+    }
+]
